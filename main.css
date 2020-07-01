@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Poppins', sans-serif;
+    font-weight: lighter;
+    font-style: normal;
+}
+
+section {
+    width: 800px;
+    transition: transform 0.25s;
+    will-change: transform;
+}
+
+div {
+    margin: 0 0 50px 0;
+}
+
+h2 {
+    margin: 10px 0 0 0;
+}
